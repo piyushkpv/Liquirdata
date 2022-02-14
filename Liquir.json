@@ -1,5 +1,25 @@
 [
   {
+    "name":"Amoled 2",
+    "author":"Liquir Walls",
+    "url":"https://github.com/piyushkpv/Amoled/raw/main/2.png",
+    "thumbnail":"https://github.com/piyushkpv/Amoled-Thumb/raw/main/2.jpg",
+    "collections":"Amoled",
+    "dimensions":"1080 × 2340 px",
+    "copyright":"Only for Personal Use, Credits Required",
+    "downloadable":"true"
+  },
+  {
+    "name":"Amoled 1",
+    "author":"Liquir Walls",
+    "url":"https://github.com/piyushkpv/Amoled/raw/main/1.png",
+    "thumbnail":"https://github.com/piyushkpv/Amoled-Thumb/raw/main/1.jpg",
+    "collections":"Amoled",
+    "dimensions":"1080 × 2340 px",
+    "copyright":"Only for Personal Use, Credits Required",
+    "downloadable":"true"
+  },
+  {
     "name":"Liquid 7",
     "author":"Liquir Walls",
     "url":"https://github.com/piyushkpv/Liquid/raw/main/7.png",
